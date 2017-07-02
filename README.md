@@ -1,7 +1,5 @@
-# shadowsocks_monitor.sh
+# shadowsocks_monitor
 
-
-##### 思路
 在这个脚本中，我尝试了以下几点
  - 使用ss抓取出当前的ssserver客户端连接
  - 使用淘宝ip库来解析获取地址信息，并使用jq来解析JSON
